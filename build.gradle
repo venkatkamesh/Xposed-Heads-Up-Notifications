@@ -10,7 +10,6 @@ apply plugin: 'com.android.application'
 
 dependencies {
     provided files('libs/XposedBridgeApi-54.jar')
-    compile 'com.larswerkman:HoloColorPicker:1.4'
 }
 
 android {
